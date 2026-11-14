@@ -27,4 +27,4 @@ Mi objetivo es documentar los proyectos, explicar las decisiones técnicas y com
 
 ## Contacto
 
-- [LinkedIn](www.linkedin.com/in/enrique-herranz-acosta-032863396)
+- [LinkedIn](https://www.linkedin.com/in/enrique-herranz-acosta-032863396/)
